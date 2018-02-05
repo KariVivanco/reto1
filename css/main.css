@@ -1,0 +1,71 @@
+#principal{
+    width: 1350px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+
+
+h1{
+    color: brown;
+    font-size: 40px;
+    margin: 10px;
+    background-color: yellow;
+    height: 95px;
+   
+}
+
+#columnaizq{
+    width: 200px;
+    height: 450px;
+    margin: 10px;
+    border-radius:5%;
+    background-color: orangered;
+    float: left;
+}
+
+#columnader{
+    width: 1110px;
+    height: 450px;
+    margin: 10px;
+    background-color: rgba(65, 160, 65, 0.411);
+    float: left;
+   
+}
+
+.clear{
+    clear: both;
+}
+
+
+#part1{
+    background-color: cornflowerblue;
+    float: center;
+    
+}
+
+#part2{
+    background-color: rgb(237, 223, 100); 
+    float: center;
+    
+}
+
+#part3{ 
+    background-color:rgb(237, 100, 168); 
+    float: center;
+}
+
+
+#pie{
+    background-color: rgb(172, 115, 172);
+    height: 50px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
